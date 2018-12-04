@@ -22,6 +22,21 @@ defmodule HeimdallWeb.ApiController do
 
   # these are private methods
   defp _calculate_check_digit(upc) do
+
+    #            ----------------------------------------------
+    #           |    Thanks for the opportunity. I couldn't    |
+    #           |    figure it out in Elixir. Not even close.  |
+    #           |    So I did it in Ruby. Super basic but      |
+    #           |    it's done. All you need to do is:         |
+    #           |    cd Heimdall/lib/heimdall_web/controllers  |
+    #           |    ruby practice.rb                          |
+    #           |                                              |
+    #            ---------------------------------------------- 
+
+
+
+
+
     #this is where your code to calculate the check digit should go
     upc
   end
